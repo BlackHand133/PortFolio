@@ -16,8 +16,9 @@ function Contact() {
                 </p>
                 <p>
                     <address>
-                    4 Privet Drive, <br />
-                    Little Whinging, Surrey
+                    145 M.7 Pa Sang, <br />
+                    Wiang Chiang Rung, Chiang Rai
+                    Thailand 57210 
                     </address>
                 </p>
                 <p><MdAlternateEmail/> prapt.2545@gmail.com</p>
