@@ -17,7 +17,7 @@ function Contact() {
                 <p>
                     <address>
                     145 M.7 Pa Sang, <br />
-                    Wiang Chiang Rung, Chiang Rai
+                    Wiang Chiang Rung, Chiang Rai,
                     Thailand 57210 
                     </address>
                 </p>
