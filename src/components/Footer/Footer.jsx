@@ -4,7 +4,7 @@ import styles from "./Footer.module.css";
 function Footer() {
   return (
     <footer>
-      <p>Copyleft @ 2567. All right mate.</p>
+      <p>Copyright @ 2567. All right mate.</p>
     </footer>
   );
 }
